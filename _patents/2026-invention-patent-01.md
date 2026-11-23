@@ -8,7 +8,7 @@ status: "Granted"
 patent_type: "Invention Patent"
 country: "China"
 excerpt: "一种基于多网络协同对比的鲁棒无监督图像异常检测方法"
-permalink: /patents/industrial-defect-detection-02/
+permalink: /patents/industrial-defect-detection-03/
 ---
 
 ## Patent Information
