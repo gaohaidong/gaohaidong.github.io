@@ -8,7 +8,7 @@ status: "Published"
 patent_type: "Invention Patent"
 country: "China"
 excerpt: "一种基于跨模态特征分析的覆盖件缺陷定位和类型识别方法"
-permalink: /patents/2026-industrial-defect-detection-03/
+permalink: /patents/2026-industrial-defect-detection-02/
 ---
 
 ## Patent Information
