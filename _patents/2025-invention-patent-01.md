@@ -8,7 +8,7 @@ status: "Granted"
 patent_type: "Invention Patent"
 country: "China"
 excerpt: "基于改进YOLOv11的金相缺陷智能检测系统及方法"
-permalink: /patents/industrial-defect-detection-01/
+permalink: /patents/2025-industrial-defect-detection-01/
 ---
 
 ## Patent Information
