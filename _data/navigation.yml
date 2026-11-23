@@ -8,26 +8,29 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About / 关于我"
-    url: /
-
   - title: "中文主页"
     url: /zh/
+    
+  - title: "About"
+    url: /
 
-  - title: "Publications / 论文"
-    url: /publications/
-
-  - title: "Projects / 项目"
+  - title: "Projects"
     url: /projects/
 
-  - title: "Team / 团队"
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Patents"
+    url: /patents/
+    
+  - title: "Team"
     url: /team/
 
-  - title: "Teaching / 教学"
-    url: /teaching/
-
-  - title: "Blog / 博客"
+  - title: "Blog"
     url: /blog/
 
-  - title: "CV / 简历"
+  - title: "CV"
     url: /cv/
