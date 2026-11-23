@@ -8,7 +8,7 @@ status: "Published"
 patent_type: "Invention Patent"
 country: "China"
 excerpt: "一种基于CLIP语义引导的盒监督覆盖件异常分割方法"
-permalink: /patents/industrial-defect-detection-02/
+permalink: /patents/2025-industrial-defect-detection-02/
 ---
 
 ## Patent Information
