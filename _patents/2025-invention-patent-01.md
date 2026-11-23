@@ -16,9 +16,9 @@ permalink: /patents/industrial-defect-detection-01/
 - **Patent Type:** Invention Patent
 - **Country:** China
 - **Patent Number:** ZL202511461261.8
-- **Application Date:** 2025.10.14
-- **Publication Date:** 2024-XX-XX
-- **Grant Date:** 2025-XX-XX
+- **Application Date:** 2025-10-14
+- **Publication Date:** 2025-11-11
+- **Grant Date:** 2026-02-10
 - **Inventors:** 谭谞；邹静；高海东；王安妮
 - **Status:** Granted
 
