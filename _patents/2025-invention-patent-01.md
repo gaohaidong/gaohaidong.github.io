@@ -1,13 +1,13 @@
 ---
-title: "一种基于多模态信息融合的工业缺陷检测方法"
+title: "基于改进YOLOv11的金相缺陷智能检测系统及方法"
 collection: patents
 date: 2025-06-15
-patent_number: "ZLXXXXXXXXXX"
-inventors: "高海东, XXX, XXX"
+patent_number: "ZL202511461261.8"
+inventors: "谭谞；邹静；高海东；王安妮"
 status: "Granted"
 patent_type: "Invention Patent"
 country: "China"
-excerpt: "一种面向工业视觉检测场景的多模态智能缺陷检测方法。"
+excerpt: "基于改进YOLOv11的金相缺陷智能检测系统及方法"
 permalink: /patents/industrial-defect-detection-01/
 ---
 
@@ -15,11 +15,11 @@ permalink: /patents/industrial-defect-detection-01/
 
 - **Patent Type:** Invention Patent
 - **Country:** China
-- **Patent Number:** ZLXXXXXXXXXX
-- **Application Date:** 2023-XX-XX
+- **Patent Number:** ZL202511461261.8
+- **Application Date:** 2025.10.14
 - **Publication Date:** 2024-XX-XX
 - **Grant Date:** 2025-XX-XX
-- **Inventors:** 高海东, XXX, XXX
+- **Inventors:** 谭谞；邹静；高海东；王安妮
 - **Status:** Granted
 
 ## Abstract
