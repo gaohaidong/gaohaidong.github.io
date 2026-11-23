@@ -1,7 +1,7 @@
 ---
 title: "一种提示词驱动的逻辑异常图像样本生成方法"
 collection: patents
-date: 2026-XX-XX
+date: 2026-12-31
 patent_number: "ZL***.*"
 inventors: "高海东；卢梓钦；俞张怡；劳正烨；谭谞"
 status: "Filed"
@@ -16,7 +16,7 @@ permalink: /patents/2026-industrial-defect-detection-08/
 - **Patent Type:** Invention Patent
 - **Country:** China
 - **Patent Number:** ZL***.*
-- **Application Date:** 2026-XX-XX
+- **Application Date:** 2026-12-31
 - **Publication Date:** 2026-XX-XX
 - **Grant Date:** XXX
 - **Inventors:** 高海东；卢梓钦；俞张怡；劳正烨；谭谞
