@@ -8,7 +8,7 @@ status: "Published"
 patent_type: "Invention Patent"
 country: "China"
 excerpt: "一种基于牙齿结构先验引导的多教师半监督牙齿疾病检测方法和装置"
-permalink: /patents/2026-industrial-defect-detection-03/
+permalink: /patents/2026-industrial-defect-detection-02/
 ---
 
 ## Patent Information
